@@ -1,6 +1,9 @@
 # Predicting Battery Shortages at an Electric Scooter Swapping Station
 
 An end-to-end MLOps system that predicts whether a university-area electric scooter battery-swapping station will experience a battery shortage during the evening rush window (**5:00 PM – 7:00 PM**).
+| Topic          | Colab Notebook |
+|----------------|----------------|
+| EV_Battery_Stortage_Prediction| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11k5ukTMvRYxfc_kEcQXMbVjNw1u-6G7m?usp=sharing) |
 
 ---
 
